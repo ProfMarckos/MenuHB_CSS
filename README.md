@@ -1,2 +1,3 @@
 # MenuHB_CSS
- Menu Hamburguer sem JS
+ - Para agregar aos estudos.
+ - Menu Hamburguer somente com CSS, sem JS
